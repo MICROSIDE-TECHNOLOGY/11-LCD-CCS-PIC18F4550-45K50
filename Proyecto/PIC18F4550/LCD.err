@@ -1,0 +1,5 @@
+Compiling C:\Users\Martin Hdez\Desktop\18F4550\11 LCD\LCD on 01-dic.-20 at 11:49
+>>> Warning 203 "C:\Users\Martin Hdez\Desktop\18F4550\11 LCD\LCD.c" Line 42(1,1): Condition always TRUE
+      Memory usage:   ROM=2%      RAM=0% - 1%
+      0 Errors,  1 Warnings.
+Build Successful.

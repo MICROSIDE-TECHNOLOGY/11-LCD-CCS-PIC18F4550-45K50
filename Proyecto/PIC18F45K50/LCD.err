@@ -1,0 +1,5 @@
+Compiling C:\Users\Martin Hdez\Desktop\18F45K50\Práctica 11 – LCD\LCD on 01-dic.-20 at 11:48
+>>> Warning 203 "C:\Users\Martin Hdez\Desktop\18F45K50\Práctica 11 – LCD\LCD.c" Line 40(1,1): Condition always TRUE
+      Memory usage:   ROM=2%      RAM=0% - 1%
+      0 Errors,  1 Warnings.
+Build Successful.
